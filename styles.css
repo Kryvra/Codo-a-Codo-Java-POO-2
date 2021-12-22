@@ -1,0 +1,19 @@
+html {
+    font-size: 25px;
+}
+
+.row {
+    margin: 50px 0;
+    padding: 2rem;
+    border: darkblue 2px solid;
+    background-color: lightblue;
+    color: darkslateblue;
+}
+
+.button {
+    background-color: dodgerblue;
+    color: white;
+    width: 20rem;
+    height: 3rem;
+    margin-top: 50px;
+}
